@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short scriptural testimony concerning the person, or humanity of Christ shewing the great necessity of believing in the Lord Jesus inseperably, as he is both God and man, according to the doctrin of the holy Scriptures / by way of epistle to all faithful friends and brethren.</title>
+            <author>Spire, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93686</idno>
+            <idno type="STC">Wing S4989</idno>
+            <idno type="STC">ESTC R42876</idno>
+            <idno type="EEBO-CITATION">38875883</idno>
+            <idno type="OCLC">ocm 38875883</idno>
+            <idno type="VID">152390</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93686)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152390)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2295:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short scriptural testimony concerning the person, or humanity of Christ shewing the great necessity of believing in the Lord Jesus inseperably, as he is both God and man, according to the doctrin of the holy Scriptures / by way of epistle to all faithful friends and brethren.</title>
+                  <author>Spire, John.</author>
+               </titleStmt>
+               <extent>[3], 4-15 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 13: John Spire, junr. London the first of the third Month, called May, 1696.</note>
+                  <note>Imperfect: faded, with loss of text.</note>
+                  <note>Errata: p. [2]</note>
+                  <note>Reproduction of original in: Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Humanity --  Quaker authors.</term>
+               <term>Jesus Christ --  Person and offices --  Quaker authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152390:1" rendition="simple:additions"/>
+            <p>A SHORT Scriptural Teſtimony Concerning the <hi>Perſon, or Humanity</hi> OF CHRIST. Shewing the great Neceſſity of Believing in the LORD JESUS <hi>Inſeperably,</hi> as he is both GOD and MAN; according to the Doctrin of the Holy <hi>Scriptures:</hi> By way of <hi>Epiſtle</hi> to all faithful <hi>Friends</hi> and <hi>Brethren.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>John 3.15.16.</hi>
+               </bibl>
+               <p>Whoſoever beleiveth on him, <hi>(i. e. the Son of Man)</hi> ſhall not Periſh, but have Eternal Life.</p>
+               <p>For God ſo loved the World, that he gave his only begotten Son, that whoſoever be<g ref="char:EOLhyphen"/>lieveth in him ſhould not Periſh, but have everlaſting Life.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the YEAR, 1696.</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:152390:2" rendition="simple:additions"/>
+            <p>PAGE 12. Line 2. for <hi>whereby</hi> read <hi>hereby.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152390:2"/>
+            <head>A Short Teſtimony Concerning the <hi>Perſon (or, Humanity)</hi> OF CHRIST.</head>
+            <p>DEAR Friends and Chriſtian Brethren, every where Scattered up and down, who have been <hi>Beleivers</hi> in the Lord Jeſus Chriſt of <hi>Naazreth</hi> (who is both <hi>true</hi> and <hi>Perfect God</hi> and <hi>true</hi> and <hi>Per<g ref="char:EOLhyphen"/>fect Man</hi>) in whom our Life, and Eternal Hope of Salvation, purchaſed For all thoſe that ſhall truly beleive in his Name; who in the appointed time of the Father, gave himſelf a Sacrafice once for all, for the expiation of the Sins of the whole World, bearing them in his moſt Holy and Glorious Body upon the
+<pb n="4" facs="tcp:152390:3"/>
+               <hi>tree</hi> of the <hi>Croſs:</hi> thus in his Perſon (or Hu<g ref="char:EOLhyphen"/>manity) he became Sin for us, that had no Sin, reconciling us to God the Father in his moſt Dear and Precious Blood, in whoſe ſaving Name I dearly ſalute you every where, be<g ref="char:EOLhyphen"/>ſeeching you (my Brethren and Friends) to call fervently upon him, and approach near unto God the Father by his Mediatorſhip, who ſits at the Right Hand of the Majeſty on high, continualy making interceſſion as our Heaven<g ref="char:EOLhyphen"/>ly Advocate and high-Prieſt for us, teaching us by his Spirit how to Pray, and then offering up the Incenſe of our Prayers to God the Father, and praying for us who always beholds the face of the Inapprehenſible Majeſty of God, to whom no mortal eye can approach.</p>
+            <p>The exortation that lives in my heart to<g ref="char:EOLhyphen"/>wards you is on this wiſe (<hi>viz</hi>) To exhort you to let the remembrance of thoſe Goſpel Truths which have been often ſounded as an alarum in your ears by the Lords faithful ſervants and Meſſengers, dwell weightily upon your Souls is the earneſt deſire and Travail of my Spirit unto God for you as for my own Soul, Oh! Prize it, with all the other precious Truths in the Scriptures of the <hi>Old</hi> and <hi>New</hi> Teſta<g ref="char:EOLhyphen"/>ment, recorded for our Learning and inſtructi<g ref="char:EOLhyphen"/>on; Oh! you that are in any meaſure awakened out of the ſleep of <hi>Ignorance</hi> and Unbelief, ſtrive by the aſiſtance of Gods Holy Spirit more and more, to obtain a true and living Soul Saving Faith, in our for-ever Bleſſed Lord and Saviour Jeſus Chriſt, who is both the Son of God and the Son of man, the Son of God by an Eternal Generation, the
+<pb n="5" facs="tcp:152390:3"/>Son of Man by Incarnation. In time prize ye the Mercies of God in Chriſt both Spiritual and Temporal let them never be obliterated out of your Remembrance; let time be often ſet a part by you to read the <hi>Scriptures</hi> of the <hi>Old</hi> and <hi>New-Teſtament,</hi> praying for the aſſiſtance of the <hi>Holy Spirit,</hi> to help and unfold thoſe deep <hi>Myſteries</hi> of the <hi>Kingdom</hi> of our <hi>God</hi> and <hi>Christ</hi> therein contained, let them not be ſlighted by you, as they have been by ſome in Years paſt, through their <hi>Ignorance,</hi> and <hi>Blindneſs,</hi> which is a grief to my <hi>Soul,</hi> to think of with reluctance of mind in that caſe, but when I look at the good Hand of the Lord, my Soul is drawn forth into an Admiration of his inexpreſſible <hi>Love</hi> and <hi>Kind<g ref="char:EOLhyphen"/>neſs,</hi> who hath been ſo Good and Gracious unto a ſmall Remnant of the ſinful <hi>Sons</hi> and <hi>Daughters</hi> of <hi>Men,</hi> in that he hath been ſo pleaſed to raiſe up among us, or rather brought back from a <hi>remote Place</hi> of the <hi>World,</hi> one unto us whom he, in his great kindneſs, hath made inſtrumental in his hand to the awakening of our Souls, who were as I may ſo ſay, at eaſe, and had taken up a falſe Reſt by the way; but now I truſt, ſeeing the Lord hath been pleaſed to further Illuminate the Underſtandings of ſome, they are reſolved by his aſſiſtance to travel on in his Name and Power until they arrive at the deſired <hi>Port,</hi> or <hi>Haven</hi> of Reſt, even the Heavenly <hi>Canaan:</hi> In the Senſe and Remembrance of which, my Soul bleſſeth the Lord, and all that is within me praiſeth his moſt holy Name, who is wholly and alone worthy of the ſame for Evermore.</p>
+            <p>
+               <pb n="6" facs="tcp:152390:4"/>
+               <hi>The fear of the Lord is the beginning of Wiſ<g ref="char:EOLhyphen"/>dom; and a good <g ref="char:V">Ʋ</g>nderſtanding have all they that do thereafter.</hi> And the way to have true Wiſ<g ref="char:EOLhyphen"/>dom is to fear the Lord, and ask it of him, who is the Father of Lights, from whom co<g ref="char:EOLhyphen"/>meth every good and perfect Gift, (who is a <hi>Bountiful Father, that giveth liberally unto his Children, and upbraideth not,</hi> &amp;c.)</p>
+            <p>Prov. 2. v. 23, 4, 5, 6. <hi>If thou lucline thine Ear unto Wiſdom, and apply thine Heart to <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>derſtanding: Yea, if thou criest after Know<g ref="char:EOLhyphen"/>ledge, and lifteth up thy Voice for <g ref="char:V">Ʋ</g>nderſtan<g ref="char:EOLhyphen"/>ding: If thou ſeekest her as Silver, and ſear<g ref="char:EOLhyphen"/>chest for her as for hid Treaſure, then ſhalt thou underſtand the fear of the Lord; and find the Knowledge of God. For the Lord giveth Wiſdom; out of his Mouth cometh Knowledge and <g ref="char:V">Ʋ</g>nderſtanding,</hi> &amp;c. Seek aright and then thou wilt have the true Knowledge of our bleſſed Lord and Saviour Jeſus Chriſt, who, in the days of his Fleſh, expreſſed himſelf after this manner; <hi>(viz.) Not every one that ſaith unto me, Lord, Lord, ſhall enter into the King<g ref="char:EOLhyphen"/>dom of Heaven; but he that doth the Will of my Father which is in Heaven: Matt.</hi> the 7th and 21st. The will of God is that we believe on the Lord Jeſus Chriſt, whom he hath ſent, as he is both true God and Man, that is to believe in him truly as we ought to do, and not to divide his Humanity from his God-head, but to believe in him inſeperably, to be our compleat Saviour, who ſaid unto his Di<g ref="char:EOLhyphen"/>ſciples; <hi>Ye believe in God, believe alſo in me,</hi> John 14. <hi>v.</hi> 1, <hi>&amp;c.</hi> Who alſo ſaid elſewhere unto the <hi>Jews; Except ye believe that I'am he
+<pb n="7" facs="tcp:152390:4"/>you ſhall die in your ſins—and whither I go you cannot come.</hi> John. 8.24, 28. <hi>Then ſaid Jeſus unto them, When you have lift up the Son of Man, then ſhall ye know that I am He, —but now ye ſeek to Kill me, a Man that hath told you the Truth, which I have heard of God,</hi> &amp;c.</p>
+            <p>So here is a great neceſſity, for all to be<g ref="char:EOLhyphen"/>leive in the glorified Man Chriſt, not excluding his Manhood from being jointly concerned therein, I ſhall cite thee ſome Scripture Teſti<g ref="char:EOLhyphen"/>monies, whereby thou may ſee the neceſſity of beleiving in the Lord Jeſus Chriſt, both to his Humanity as well as his Divinity; and alſo to confeſs him before men, who ſaid, <hi>Matth.</hi> 10.32, 33. <hi>Whoſoever therefore ſhall confeſs me before men, him will I confeſs alſo before my Father, which is in Heaven; but whoſoever ſhall deny me before men, him will I alſo deny before my Father which is in Heaven.</hi> Therefore let all Fleſh dread and Fear the Lord, and have a living Faith in the inward and bleſſed Appear<g ref="char:EOLhyphen"/>ance of the Lord Jeſus Chriſt in their Hearts, as alſo his outward Appearance in the Days of his Fleſh, who Died and Suffered for us, and is aſcended into Heaven as an Advocate with the Father for us, who alſo ſhall come again at the laſt and great Day of general Judgment, to judge both Quick and Dead; and happy will all thoſe be to whom the Sentance ſhall be pronounced of <hi>Come ye bleſſed, inherit the Kingdom prepared for you,</hi> &amp;c. <hi>For the Myſtery of the true Evangelical Faith is hold in a Pure Conſcience,</hi> 1 Epiſt. <hi>to</hi> Timothy <hi>the</hi> 3d, 9. <hi>and</hi> 16. <hi>And without Controverſie great is
+<pb n="8" facs="tcp:152390:5"/>the Myſtery of Godlineſs: God manifest in the Fleſh, Juſtified in the Spirit, ſeen of Angels, Preached unto the Gentiles, believed on in the World, received up into Glory.</hi> A great and glorious Myſtery indeed it is to know Salva<g ref="char:EOLhyphen"/>tion by Jeſus Chriſt, who ſaid, <hi>Matt.</hi> 11.19. <hi>The Son of Man came eating and drinking; and they ſay, behold a Man Gluttenous, a Wine<g ref="char:EOLhyphen"/>bibber, a friend of Pulicans and Sinners: but Wiſcom is juſtified of her Children.</hi> Matth. 12.8. <hi>For the Son of Man is Lord even of the Sabbath-Day.</hi>—32. <hi>verſe. And whoſoever ſpea<g ref="char:EOLhyphen"/>keth a Word against the the Son of Man it ſhall be forgiven him,</hi> &amp;c.—40. <hi>verſe. For as Jonas was three days and three Nights in the Whale's belly, ſo ſhall the Son of Man be three days and three nights in the heart of the Earth.</hi> Matt. 13.41. <hi>The Son of Man ſhall ſend forth his Angels,</hi> &amp;c. Matth. 16.27. <hi>For the Son of Man ſhall come in the Glory of his Fa<g ref="char:EOLhyphen"/>ther, with his Angels,</hi> &amp;c. Matth. 17.9. <hi>Tell the Viſion to no man until the Son of Man be riſen again from the Dead.</hi> verſe 22d. <hi>The Son of Man ſhall be betrayed into the hands of</hi> Men. Matth. 19.28. <hi>When the Son of Man ſhall ſet in the Throne of his Glory; yea, alſo ſhall ſet upon twelve Thrones, judging the twelve Tribes of Iſrael.</hi> the 20th Chapter, 18, 19 v. <hi>And the Son of Man ſhall be betrayed unto the cheif Priests, and they ſhall condemn him to Death, to Mock, to Scourge, to crucifie him, and the third day he ſhall riſe again.</hi> [Mark] The Son of Man ſhall riſe again, our bleſſed Lord and Saviour's own Words; therefore let it ſhame thoſe who deny him to be <hi>riſen;</hi> and
+<pb n="9" facs="tcp:152390:5"/>affirms, what he took of the <hi>Virgin</hi> he left in the <hi>Grave,</hi> and never went Bodily into Hea<g ref="char:EOLhyphen"/>ven, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Matth.</hi> 24.27. <hi>For as the Lightning that ſhineth from the East unto the West, ſo ſhall the coming of the Son of Man be.</hi>
+            </p>
+            <p>Mark 8.28. <hi>Whoſoever ſhall be aſhamed of me and my Words in this ſinful Generation, of him alſo the Son of Man ſhall be aſhamed, when he cometh in the Glory of his Father, with the holy Angels,</hi> &amp;c.</p>
+            <p>Luke 1.35. <hi>Therefore alſo that holy Thing which ſhall be born of thee,</hi> (i. e. the Virgin Mary) <hi>ſhall be called the Son of God.</hi> A ſay<g ref="char:EOLhyphen"/>ing ſufficient to ſatisfy that our Lord and Sa<g ref="char:EOLhyphen"/>viour is both God and Man, who remains in the preſence of God for us, being a continual Interceſſor with the Father.</p>
+            <p>John 6.27.53.62, <hi>Labour for that Meat which the Son of Man ſhall give unto you, for him hath God the Father Sealed,</hi> &amp;c.</p>
+            <p>
+               <hi>Except ye eat the Fleſh of the Son of Man, and drink his Blood, ye have no Life in you.</hi> Whoſe Blood the Author to the <hi>Hebrews,</hi> in the 12.24. directs unto. <hi>And to Jeſus the Mediator of the new Covenant; and to the Blood of ſprinkling, that ſpeaketh better things than that of Abel. And what if you ſhall ſee the Son of Man aſcend up where he was be<g ref="char:EOLhyphen"/>fore,</hi> John 1.30. <hi>This is he of whom I ſaid, after me cometh a Man which is preferred be<g ref="char:EOLhyphen"/>fore me.</hi> verſe 34. <hi>And I ſaw and bare Re<g ref="char:EOLhyphen"/>cord that this is the Son of God.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:152390:6"/>
+Here thou may ſee the beloved Diſciple of our Lord Jeſus Chriſt declares him to be both God and Man: O comfortable ſaying indeed! Who can declare the Heighth and Length, and Breadth thereof! whoſe matchleſs Love is be<g ref="char:EOLhyphen"/>yond all Carnal apprehenſion.</p>
+            <p>John 3, 13, 14, 15. <hi>And no Man hath aſcended up to Heaven, but he that came down from Heaven, even the Son of Man which is in Heaven. And as Moſes lifted up the Ser<g ref="char:EOLhyphen"/>pent in the Wilderneſs, even ſo must the Son of Man be lifted up, that whoſoever believeth in him ſhould not Periſh, but have Eternal Life.</hi>
+            </p>
+            <p>Theſe Scripture Teſtimonies are cited for the information of thoſe who in any wiſe have ſlighted the <hi>Humanity</hi> of <hi>Christ,</hi> in hopes thereby they may be awakened to ſee that they ought not only to confeſs Chriſt, but alſo to believe in him <hi>Inſeperably,</hi> who is both <hi>true God,</hi> and <hi>perfect Man;</hi> (viz.) <hi>For there is one God, and one Mediator between God and Men, the Man Christ Jeſus, who gave him<g ref="char:EOLhyphen"/>ſelf a Ranſom for all, to be teſtified of in due time.</hi> The firſt Epiſtle of <hi>Paul</hi> to <hi>Timothy,</hi> the <hi>2d</hi> Chap. verſe 5, 6.</p>
+            <p>Therefore let ſhame cover the Faces of thoſe that deny the <hi>Humanity</hi> of <hi>Christ,</hi> whoſe Ignorance of the Scriptures greatly bewrayeth them to be unſound in the true Evangelical and ſaving Faith; who ſay, and boldly affirm, That our bleſſed Lord and Saviour Jeſus Chriſt, is only to be Preached a <hi>Light</hi> in every Man; and
+<pb n="11" facs="tcp:152390:6"/>that there is not ſuch words as the <hi>Man Christ</hi> in all the Scriptures, <hi>&amp;c.</hi> But thou may ſee by the following Scriptural Citation as well as the aforegoing, that the Author to the <hi>He<g ref="char:EOLhyphen"/>brews</hi> calls him, <hi>(i. e.)</hi> our Lord Jeſus, by the term of <hi>Man; Heb.</hi> 7.24, 25. <hi>But this Man,</hi> (i. e. the Man Chriſt Jeſus) <hi>becauſe he continueth ever, hath an <g ref="char:V">Ʋ</g>nchangable Prieſt<g ref="char:EOLhyphen"/>hood, who is able to ſave to the uttermost, thoſe who come to God by him, ſeeing he ever liveth to make Interceſſion for them: But this Man after he had offered one ſacrifice for Sins, for ever ſat down at the right Hand of God,</hi> &amp;c.</p>
+            <p>Heb. 10.12. <hi>Be it known unto you therefore Men and Brethren, that through this Man</hi> (viz. Chriſt) <hi>is Preached unto you the forgiveneſs of ſins.</hi> Acts 13.38. <hi>God commandeth all Men every where to Repent, becauſe he hath appointed a Day,</hi> (Acts<g ref="char:punc">▪</g> 17.30, 31.) <hi>in the which he will Judge the World in Righteouſneſs, by that Man whom he hath Ordained; whereof he hath given aſſurance unto all Men, in that he hath raiſed him from the Dead.</hi>
+            </p>
+            <p>Here you may plainly ſee our Lord Jeſus Chriſt of <hi>Nazareth</hi> is Preached by his Holy Apoſtles, both <hi>God</hi> and <hi>Man,</hi> a compleat and intire Saviour to all thoſe that ſhall believe in his powerful Name; <hi>Whoſe Name is a ſtrong Tower of Defence, and the Righteous fly there<g ref="char:EOLhyphen"/>unto and are in ſafety, where none can make Afraid.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:152390:7"/>
+And thus to have a living Faith in him is precious indeed to all ſuch Beleivers, whereby the Glory of our bleſſed Lord's Divinity can<g ref="char:EOLhyphen"/>not be Ecclipſed by thoſe whoſe Faith are thus eſtabliſhed in him, who is the Rock of Ages, and the Foundation of many Generations, who alone is worthy of all Honour and Praiſe.</p>
+            <p>So thou art hereby earneſtly deſired to read theſe Scriptures herein inſerted, with others, which we have omitted for brevity ſake. O let none be aſhamed to confeſs their Redeemer! and hide their Faith of him ſhut up within their Breaſts! but let every one who have be<g ref="char:EOLhyphen"/>lieved in his glorious Appearance, be Zealous and Fervently concerned in their Stations and Capacities, to Preach their holy Faith of the Lord Jeſus Chriſt, both in Doctrin and godly Converſation, for the information of all thoſe who are ſeeking the way to <hi>Sion,</hi> with their Faces thitherward.</p>
+            <p>Seek him that is able to lead you and con<g ref="char:EOLhyphen"/>duct you in the true and living Way, <hi>&amp;c. I am the Way, ſaid Christ,</hi> the <hi>Truth, and the Life, he that believeth in me ſhall have ever<g ref="char:EOLhyphen"/>laſting Life, he is the Light and the Life.</hi> Whoſe Indwelling-preſence fills <hi>Heaven</hi> and the whole <hi>Earth,</hi> whoſe Bright <hi>Glory</hi> ſhines in the midſt of <hi>Nations,</hi> to the end that her <hi>Sons</hi> may come from far, and her <hi>Daughters</hi> from the ends of the <hi>Earth,</hi> to ſit down at <hi>Wiſdoms-gate,</hi> in the <hi>Temple</hi> of which is the <hi>Miniſtration</hi> of <hi>life</hi> where the <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> of the <hi>Spirit</hi> and true Bond of <hi>Peace</hi> will be known; in the Remem<g ref="char:EOLhyphen"/>brance
+<pb n="13" facs="tcp:152390:7"/>whereof, are prayers offered to the living <hi>God,</hi> That he would be pleaſed in his own appointed time and ſeaſon to haſten what he Promiſed by the mouth of his Prophet <hi>Zephan.</hi> chap. 3, 9. <hi>For then will I turn unto the People a Pure Language, that they may all call upon the Name of the Lord,</hi> to ſerve him with one conſent, in which deſire we Travel with an expectation of ſeeing the ſame ful<g ref="char:EOLhyphen"/>filled, however the will of the moſt high God be done, in Earth, as it is in Heaven <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Saith a Lover of all Souls, who is known by the Name of <hi>Iohn Spire.</hi>
+                  </hi> jun<hi rend="sup">r</hi>.</signed>
+               <dateline>London <date>the firſt of the third Month, called <hi>May,</hi> 1696.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:152390:8"/>
+            <head>A POSTSCRIPT.</head>
+            <opener>
+               <salute>Friendly Reader.</salute>
+            </opener>
+            <p>BEing Religiouſly and Conſcientiouſly concer<g ref="char:EOLhyphen"/>ned and grieved, to ſee and hear how ſome, under the Profeſſion of the Bleſſed Truth, ſlight and undervalue the <hi>Perſon,</hi> (or <hi>Huma<g ref="char:EOLhyphen"/>nity</hi>) of our Bleſſed <hi>Lord</hi> and <hi>Saviour Jeſus Christ,</hi> who is the Immaculate <hi>Lamb</hi> of <hi>God,</hi> that taketh away the ſins of the World.</p>
+            <p>It being matter of great Grief and La<g ref="char:EOLhyphen"/>mentation to many, to ſee the Doctrine of Chriſt together with the Teſtimony of the <hi>Holy Scriptures,</hi> expoſed to reproach in ſuch an evil and perilous Day, and time wherein we live. I could do no leſs then ſeriouſly re<g ref="char:EOLhyphen"/>commend unto thee the afore going <hi>Teſtimony,</hi> (if happily thou mayſt be recovered out of that evil State in which too to many are fallen into,) and alſo exhort thee to have a care of rending, tearing, and diviling the Doctrin of <hi>Christ's Humanity</hi> from his <hi>God-Head,</hi>
+               <pb n="15" facs="tcp:152390:8"/>which ought to go <hi>inſeparably</hi> together; therefore ſee to it, that thou may be cloathed whith his Seamleſs Garment; that's woven from the top to the bottom; for as <hi>Christ</hi> is but <hi>one,</hi> his <hi>truth one,</hi> his <hi>Garment one,</hi> ſo ought his <hi>Church</hi> and <hi>People</hi> to be <hi>one,</hi> which that it may be ſo with every one, while one this ſide of the <hi>Grave</hi> is my earneſt deſire, that when days and time to us ſhall be no more, we may have our dwelling and Habitation with the Lord, Eternally in the Heavens above: So I Commend you with my ſelf to the Lord Jeſus Chriſt, whom we have in any meaſure Beleived, and to the word of his Grace, which is able to ſave us; <hi>Farewel.</hi>
+            </p>
+            <closer>
+               <signed>J. S.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
